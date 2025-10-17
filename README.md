@@ -21,6 +21,6 @@ It’s built to showcase modern web development and backend integration — comb
 **Frontend:** React, D3.js, Tailwind CSS  
 **Backend:** Flask (Python)  
 **Database:** MongoDB  
-**DevOps:** Docker, AWS (optional)  
+**DevOps:** Docker, AWS  
 
 ---
